@@ -54,17 +54,7 @@ To run the development server:
 
 Struture of the project:
 
-gam3r.store/
-.turbo/
-├── apps/
-├── github/
-├── packages/
-.gitignore
-.npmrc
-package-lock.json
-package.json
-README.md
-turbo.json
+![Project Structure](./github/project-structure.png)
 
 ## Connect with Me
 
